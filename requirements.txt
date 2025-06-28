@@ -3,3 +3,4 @@ requests
 wordcloud
 matplotlib
 python-dotenv
+beautifulsoup4
